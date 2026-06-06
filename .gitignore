@@ -1,0 +1,11 @@
+# Database — too large for GitHub
+data/commodity_credit.db
+
+# Python
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environment
+.env
